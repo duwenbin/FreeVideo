@@ -1,0 +1,19 @@
+._list{
+    padding: 0;
+    margin: 5px 0 0 0;
+    position:absolute;
+}
+._list li{
+    background: #3c3c3c;
+    padding: 0 10px;
+    list-style: none;
+    color: white;
+}
+._list li:hover{
+    cursor: pointer;
+    background: #cccccc;
+}
+._list li a{
+    color: white;
+    font-size: 12px;
+}

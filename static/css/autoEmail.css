@@ -1,0 +1,8 @@
+
+.email_list{
+    list-style: none;
+    padding: 0;
+    margin: 5px 0 0 0;
+    background: #CCCCCC;
+    position:absolute;
+}
