@@ -139,6 +139,9 @@
   width: 752px;
   margin: 0 auto;
 }
+#bg_container .last_div{
+	margin: 0 auto;
+}
 #bg_container .last_div a {
   margin: 0 auto;
   color: white;
